@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller01</string>
+    <string name="btn_offline">Eventos Presenciales</string>
+    <string name="btn_online">Eventos Virtuales</string>
+    <string name="btn_logistics">Logística</string>
+    <string name="btn_bookings">Reservas</string>
+    
+</resources>

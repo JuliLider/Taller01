@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller01</string>
+    <string name="btn_offline">Events Off-Line</string>
+    <string name="btn_online">Events On-Line</string>
+    <string name="btn_logistics">Logistics</string>
+    <string name="btn_bookings">Bookings</string>
+
+</resources>
